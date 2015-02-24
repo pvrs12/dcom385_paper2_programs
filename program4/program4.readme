@@ -1,0 +1,8 @@
+This program took me 0:19:30 to complete in C (this is much more hacked together)
+
+It takes no input, but runs on its own source file (program4.c)
+the program is 111 lines long and I got the correct answer after 5 compile edit cycles
+
+This program is not identical to the one described in the paper because the paper does not specify what language the program was written in, and on what language the program would be operating.
+
+Were this code written in java (as i suspect the orignal experiment was in) it would look significantly different because I would use the java reflection library, giving me access to the actual methods of the class and therefore all the other line count information
