@@ -1,0 +1,5 @@
+This program took me 0:13:31 to complete in C 
+
+It takes in a single number N first specifying how many entries will be in the data set 
+the following N lines are the (x,y) ordered pairs to compute the line of regression for
+the program is 54 lines long and I got the correct answer after 1 compile edit cycle

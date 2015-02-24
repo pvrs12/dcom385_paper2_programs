@@ -1,0 +1,6 @@
+This program took me 0:10:19 to complete in C (a language that I'm only decent at)
+
+It takes in a single number N first specifying how many entries will be in the data set 
+the following N lines are the data set to compute the mean and standard deviation for
+
+the program is 34 lines long and I got the correct answer after 4 compile edit cycles
